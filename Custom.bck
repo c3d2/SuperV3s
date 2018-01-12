@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3V0
+D power-flag symbol +3.3V
+K Power Flag Symbol
+$ENDCMP
+#
+#End Doc Library
