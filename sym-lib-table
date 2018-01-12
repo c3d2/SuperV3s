@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name v3s)(type Legacy)(uri ${KIPRJMOD}/v3s.lib)(options "")(descr ""))
+  (lib (name mic23450)(type Legacy)(uri ${KIPRJMOD}/mic23450.lib)(options "")(descr ""))
+  (lib (name NCP114)(type Legacy)(uri ${KIPRJMOD}/NCP114.lib)(options "")(descr ""))
+  (lib (name AP1501)(type Legacy)(uri ${KIPRJMOD}/AP1501.lib)(options "")(descr ""))
+  (lib (name Custom)(type Legacy)(uri ${KIPRJMOD}/Custom.lib)(options "")(descr ""))
+)
