@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Inductor_CD32)(type KiCad)(uri "$(KIPRJMOD)/Inductor_CD32.pretty")(options "")(descr ""))
+  (lib (name Antenna_PCB)(type KiCad)(uri "$(KIPRJMOD)/Antenna.pretty")(options "")(descr ""))
+)

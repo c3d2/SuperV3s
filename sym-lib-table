@@ -4,4 +4,5 @@
   (lib (name NCP114)(type Legacy)(uri ${KIPRJMOD}/NCP114.lib)(options "")(descr ""))
   (lib (name AP1501)(type Legacy)(uri ${KIPRJMOD}/AP1501.lib)(options "")(descr ""))
   (lib (name Custom)(type Legacy)(uri ${KIPRJMOD}/Custom.lib)(options "")(descr ""))
+  (lib (name EA3036)(type Legacy)(uri /home/strfry/C3D2/V3s/SuperRGB/EA3036.lib)(options "")(descr ""))
 )
